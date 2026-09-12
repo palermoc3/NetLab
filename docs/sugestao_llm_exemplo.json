@@ -1,0 +1,10 @@
+{
+  "fonte": "api",
+  "campos": {
+    "titulo": "result.hits.hits[]._source.title",
+    "resumo": "result.hits.hits[]._source.caption",
+    "data_publicacao": "result.hits.hits[]._source.issued",
+    "url": "result.hits.hits[]._source.url"
+  },
+  "justificativa": "Mapeamento compatível com a resposta atual da API de busca do G1."
+}

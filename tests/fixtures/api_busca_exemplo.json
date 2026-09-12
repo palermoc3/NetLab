@@ -1,0 +1,18 @@
+[
+  {
+    "result": {
+      "hits": {
+        "hits": [
+          {
+            "_source": {
+              "title": "ANPD multa TikTok por falhas na proteção de menores",
+              "caption": "Agência identificou infrações à LGPD.",
+              "issued": "2026-08-25T10:04:00.869Z",
+              "url": "https://measures.globo.com/v1/click?u=https%3A%2F%2Fg1.globo.com%2Ftecnologia%2Fnoticia%2F2026%2F08%2F25%2Fanpd-multa-tiktok.ghtml"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

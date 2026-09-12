@@ -1,0 +1,492 @@
+[
+  {
+    "id": "b03a57423185",
+    "titulo": "Como a comunicação digital transforma a experiência do consumidor",
+    "resumo": "Painéis de LED, totens, telas e soluções inteligentes ampliam as possibilidades de comunicação em lojas, empresas, eventos e ambientes corporativos.",
+    "data_publicacao": "2026-09-08T19:52:46.750Z",
+    "url": "https://g1.globo.com/am/amazonas/especial-publicitario/amazon-copy/noticia/2026/09/08/como-a-comunicacao-digital-transforma-a-experiencia-do-consumidor.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "4146f37069cb",
+    "titulo": "Por que o Brasil multou o TikTok e suspendeu lives do Discord? Entenda a diferença entre os casos",
+    "resumo": "ANPD aplicou multa de R$ 153,7 milhões ao TikTok após identificar cinco infrações à LGPD; no Discord, agência adotou medida preventiva e suspendeu transmissões ao vivo para reduzir riscos a crianças e adolescentes.",
+    "data_publicacao": "2026-08-25T12:29:25.987Z",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "130acef43a62",
+    "titulo": "Novos médicos cooperados concluem curso de formação",
+    "resumo": "O curso capacitou 8 novos médicos de várias especialidades.",
+    "data_publicacao": "2026-09-04T21:18:20.181Z",
+    "url": "https://g1.globo.com/pe/petrolina-regiao/especial-publicitario/unimed-vale-do-sao-francisco-o-cuidado-esta-em-tudo/noticia/2026/09/04/novos-medicos-cooperados-concluem-curso-de-formacao.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "9c29420ddbfc",
+    "titulo": "Santarém lança canal digital para denúncias e reclamações sobre o SUS",
+    "resumo": "Plataforma foi desenvolvida por estudantes de Medicina e permite que usuários encaminhem demandas ao Conselho Municipal de Saúde pelo celular.",
+    "data_publicacao": "2026-09-04T20:33:29.771Z",
+    "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/04/santarem-lanca-canal-digital-para-denuncias-e-reclamacoes-sobre-o-sus.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "afd19f80593b",
+    "titulo": "Governo lança medidas para padronizar uso de biometria em portos e aeroportos",
+    "resumo": "Diretrizes anunciadas pelo Ministério de Portos e Aeroportos incluem integração de sistemas e adoção de tecnologias para agilizar embarques. Reforço da segurança é uma das metas.",
+    "data_publicacao": "2026-08-31T17:30:11.675Z",
+    "url": "https://g1.globo.com/economia/noticia/2026/08/31/governo-quer-padronizar-uso-de-biometria-em-portos-e-aeroportos.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "224e2659169c",
+    "titulo": "TikTok leva multa inédita no Brasil: o que causou a decisão? E o que muda? Veja perguntas e respostas",
+    "resumo": "Rede social foi multada em R$ 153,7 milhões por violar regras de tratamento de dados de crianças e adolescentes. Agência determinou que a empresa apresente medidas para reforçar a proteção de menores de idade.",
+    "data_publicacao": "2026-08-26T03:00:46.119Z",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/tiktok-leva-multa-inedita-no-brasil-o-que-causou-a-decisao-e-o-que-muda-veja-perguntas-e-respostas.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "7da00dede79d",
+    "titulo": "Gilmar Mendes critica vazamento de conversas privadas de Vorcaro e ex-namorada e defende 'LGPD Penal'",
+    "resumo": "Segundo o ministro, expor esse tipo de material representa “uma demonstração de barbárie institucional” e ultrapassa “todos os limites impostos pelas leis e pela Constituição\".",
+    "data_publicacao": "2026-03-09T19:04:08.099Z",
+    "url": "https://g1.globo.com/politica/noticia/2026/03/09/gilmar-mendes-critica-vazamento-de-conversas-privadas-de-vorcaro-e-ex-namorada-e-defende-lgpd-penal.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "62ffc008fee2",
+    "titulo": "Câmera escondida no banheiro do trabalho: o que diz a lei e como denunciar",
+    "resumo": "Caso em Minas Gerais acendeu o alerta sobre o tema. Especialistas explicam a diferença entre assédio ou importunação sexual e registro não autorizado da intimidade.",
+    "data_publicacao": "2026-09-05T06:00:00.395Z",
+    "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/05/camera-escondida-no-banheiro-do-trabalho-o-que-diz-a-lei-e-como-denunciar.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "afcb80bba453",
+    "titulo": "ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de menores",
+    "resumo": "Agência diz que rede social tratou dados de crianças e adolescentes sem respaldo legal; ByteDance também terá de adotar medidas para ampliar a proteção desse público",
+    "data_publicacao": "2026-08-25T10:04:00.869Z",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/anpd-multa-tiktok-por-falhas-na-protecao-de-menores.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "1d4934968991",
+    "titulo": "Homem-Aranha na BMW abre discussão: montadoras podem colocar propaganda na tela do carro?",
+    "resumo": "Publicidade em telas de carros conectados pode ser permitida, mas no Brasil há limites para uso de dados, informação ao consumidor, segurança e possibilidade de recusa.",
+    "data_publicacao": "2026-08-20T06:00:47.972Z",
+    "url": "https://g1.globo.com/carros/noticia/2026/08/20/propaganda-na-tela-do-carro.ghtml",
+    "pagina": 1,
+    "coletado_em": "2026-09-12T13:14:59",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "c33d81cdc3ce",
+    "titulo": "Prefeitura suspende aplicativo de Zona Azul após vazamento de dados de clientes em Poços de Caldas",
+    "resumo": "O Procon instaurou procedimento administrativo para investigar o incidente ocorrido em 7 de julho e verificar o cumprimento da LGPD.",
+    "data_publicacao": "2026-07-14T15:29:51.694Z",
+    "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/14/prefeitura-suspende-aplicativo-de-zona-azul-apos-vazamento-de-dados-de-clientes-em-pocos-de-caldas.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "652a603770b4",
+    "titulo": "Cadastro de agressores e campanha contra abuso infantil: conheça novas leis sancionadas em Cuiabá",
+    "resumo": "Medidas propõe a criação de um cadastro de condenados por crimes de estupro e violência doméstica, além da realização permanente de uma campanha contra o abuso sexual infantil.",
+    "data_publicacao": "2026-08-26T16:32:58.691Z",
+    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/26/cadastro-de-agressores-e-campanha-contra-abuso-infantil-conheca-novas-leis-de-cuiaba.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "82c273534322",
+    "titulo": "Fiança Locatícia e LGPD: como proteger dados em um processo tão sensível",
+    "resumo": "Garantir o aluguel sem abrir mão da privacidade: entenda o papel da conformidade com a LGPD.",
+    "data_publicacao": "2025-11-17T17:18:11.801Z",
+    "url": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/liveb-bank-liveb-bank-fianca-locaticia/noticia/2025/11/17/fianca-locaticia-e-lgpd-como-proteger-dados-em-um-processo-tao-sensivel.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "6be923bf0d49",
+    "titulo": "Homem é preso suspeito de agredir a irmã em Itatiba",
+    "resumo": "Vítima tem 77 anos e foi levada para a Santa Casa com vários ferimentos. A polícia investiga as circunstâncias da agressão.",
+    "data_publicacao": "2026-08-20T20:30:38.110Z",
+    "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/20/homem-e-preso-suspeito-de-agredir-a-irma-em-itatiba.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "cf973d414f8f",
+    "titulo": "Delegada Vilma Alves segue internada após sofrer infarto em Teresina: 'lutando pela vida', diz filha",
+    "resumo": "A delegada tem 79 anos e dedicou mais de 40 anos ao cargo na Polícia Civil do Piauí. Ela foi hospitalizada na terça-feira (18).",
+    "data_publicacao": "2026-08-21T14:10:59.824Z",
+    "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/21/delegada-teresina-filha.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "d17b05a68d54",
+    "titulo": "Plano de governo: Du Pereira promete painel público, escritório estadual de projetos e diagnóstico das rodovias",
+    "resumo": "Programa de governo enfatiza a descentralização dos serviços públicos informando que pretende romper com a dependência da capital, buscando o fortalecimento dos 139 municípios.",
+    "data_publicacao": "2026-09-03T09:01:16.905Z",
+    "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-du-pereira-promete-painel-publico-escritorio-estadual-de-projetos-e-diagnostico-das-rodovias.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "c54b51c26f3d",
+    "titulo": "Entidades acionam MPF contra óculos inteligentes da Meta por riscos à privacidade e aos consumidores",
+    "resumo": "Representação questiona a segurança do dispositivo, a coleta de dados de terceiros e o uso da tecnologia para gravações sem consentimento.",
+    "data_publicacao": "2026-08-21T13:40:17.299Z",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/08/21/entidades-acionam-mpf-contra-oculos-inteligentes-da-meta-por-riscos-a-privacidade-e-aos-consumidores.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "f04dd5d62f88",
+    "titulo": "Pastor-belga que atacou veterinária no Senado é retirado das atividades e passará por exames",
+    "resumo": "Senado informou que cão está com a vacinação em dia. Vitória Valle de Oliveira Pinha, de 36 anos, segue internada em estado grave na UTI do Hospital de Base.",
+    "data_publicacao": "2026-08-19T03:00:42.302Z",
+    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/19/pastor-belga-que-atacou-veterinaria-no-senado-e-retirado-das-atividades-e-passara-por-exames.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "30750df0bdfc",
+    "titulo": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda, em cinco pontos, a nova regra da Anac",
+    "resumo": "Medida entra em vigor em setembro e também prevê multas de R$ 17,5 mil para casos de conflitos menos graves durante o voo ou o embarque.",
+    "data_publicacao": "2026-08-20T10:28:41.296Z",
+    "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/08/20/brigou-no-aviao-voce-podera-ficar-ate-um-ano-proibido-de-voar-entenda-em-cinco-pontos-a-nova-regra-da-anac.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "6b1204d649e0",
+    "titulo": "Motorista de caminhonete persegue e esfaqueia motoboy em pizzaria no PR após briga de trânsito e é encontrado com ajuda de IA",
+    "resumo": "Crime foi registrado por câmera de segurança. Segundo a polícia, desentendimento iniciou porque motociclista parou para dar preferência a um pedestre e motorista da caminhonete se irritou. Ele foi preso em flagrante.",
+    "data_publicacao": "2026-08-21T14:51:24.958Z",
+    "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/21/motorista-de-caminhonete-persegue-e-esfaqueia-motoboy-em-pizzaria-no-pr-apos-briga-de-transito-e-e-encontrado-com-ajuda-de-ia.ghtml",
+    "pagina": 2,
+    "coletado_em": "2026-09-12T13:15:05",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "29bd5b8f2ed3",
+    "titulo": "Latam diz que falha de segurança expôs nome, endereço e parte do cartão de crédito de clientes",
+    "resumo": "Companhia aérea disse que vazamento de dados foi identificado em 29 de julho e recomendou que clientes tenham atenção redobrada a possíveis mensagens ou ligações falsas.",
+    "data_publicacao": "2026-08-19T21:26:49.283Z",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/08/19/latam-incidente-seguranca-dados.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "8d64b089a196",
+    "titulo": "Vazamento de dados de mais de 600 pessoas com HIV na BA viola Constituição, LGPD e outras normas",
+    "resumo": "Código de Ética Médica e as normas do Sistema Único de Saúde (SUS) também foram violadas após a Prefeitura de Feira de Santana divulgar os dados sigilosos.",
+    "data_publicacao": "2025-09-23T07:00:48.378Z",
+    "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2025/09/23/vazamento-de-dados-de-pessoas-com-hiv-na-ba-viola-leis-e-normas.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "5b3d374b1bcd",
+    "titulo": "Backup local ou em nuvem: o que considerar na escolha da estratégia",
+    "resumo": "Especialistas apontam que a decisão não precisa ser exclusiva entre um modelo e outro, mas depende do perfil de dados e da tolerância a risco de cada empresa.",
+    "data_publicacao": "2026-08-25T12:15:27.268Z",
+    "url": "https://g1.globo.com/pr/parana/especial-publicitario/gate7-it-solutions-gestao-de-ti-inteligente/noticia/2026/08/25/backup-local-ou-em-nuvem-o-que-considerar-na-escolha-da-estrategia.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "434fc6c2ffb6",
+    "titulo": "Saiba como evitar ligações abusivas: Procon de Taubaté orienta consumidores",
+    "resumo": "Órgão fez orientações sobre chamadas insistentes, cobranças não reconhecidas e ligações destinadas a localizar outras pessoas.",
+    "data_publicacao": "2026-08-18T16:23:44.721Z",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/18/saiba-como-evitar-ligacoes-abusivas-procon-de-taubate-orienta-consumidores.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "333985f67d53",
+    "titulo": "Vazamento de dados na Latam: entenda o que foi exposto e como se proteger",
+    "resumo": "Segundo a companhia aérea, falha permitiu acesso a dados pessoais e parte dos dados de cartões. Empresa recomenda atenção contra eventuais tentativas de golpes com informações acessadas por terceiros.",
+    "data_publicacao": "2026-08-20T03:00:34.015Z",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/08/20/vazamento-de-dados-na-latam-entenda-o-que-foi-exposto-e-como-se-proteger.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "5f58c5005c4f",
+    "titulo": "Em programa de governo, Ivan Moraes promete tarifa zero, renda básica estadual, câmeras corporais na PM e comitê de cannabis medicinal",
+    "resumo": "Candidato do PSOL ao governo de Pernambuco também prometeu criar programa Todos com a Nota Digital e ensino de educação sexual nas escolas.",
+    "data_publicacao": "2026-09-05T03:00:00.766Z",
+    "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/05/plano-de-governo-de-ivan-moraes.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "f885fc49b8ba",
+    "titulo": "Criança de 10 anos ferida após deslizamento de terra onde a mãe morreu segue na UTI, em SC",
+    "resumo": "Menina foi encontrada ferida e sofreu uma parada cardíaca após acidente ocorrido na Grande Florianópolis. Pai e irmão também estavam na residência.",
+    "data_publicacao": "2026-08-17T12:48:45.303Z",
+    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/17/crianca-10-anos-ferida-deslizamento-onde-mae-morreu-segue-na-uti.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "0f91cfb5b298",
+    "titulo": "Cloud para startups: como estruturar infraestrutura desde o início",
+    "resumo": "Escolhas feitas nos primeiros meses de uma startup sobre onde e como armazenar dados podem influenciar diretamente a capacidade de crescer sem retrabalho técnico.",
+    "data_publicacao": "2026-08-21T18:58:13.717Z",
+    "url": "https://g1.globo.com/pr/parana/especial-publicitario/gate7-it-solutions-gestao-de-ti-inteligente/noticia/2026/08/21/cloud-para-startups-como-estruturar-infraestrutura-desde-o-inicio.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "6a089abfaaec",
+    "titulo": "LGPD em TI: Como empresas podem garantir conformidade com suas operações",
+    "resumo": "A HostDime foi a primeira empresa no Brasil a conquistar a ISO 27701, garantindo conformidade com a LGPD.",
+    "data_publicacao": "2025-05-21T20:56:11.154Z",
+    "url": "https://g1.globo.com/pb/paraiba/especial-publicitario/hostdime/noticia/2025/05/21/lgpd-em-ti-como-empresas-podem-garantir-conformidade-com-suas-operacoes.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "cef060fa1155",
+    "titulo": "MP investiga exposição de dados pessoais de mais de 290 pacientes na Bahia; lista inclui registros de exames de HIV e hepatite",
+    "resumo": "Relatórios com nomes, CPFs e exames de HIV e hepatite foram anexados a processos de pagamento da Prefeitura de Santo Estevão. Representação também foi enviada ao TCM-BA.",
+    "data_publicacao": "2026-08-19T18:36:51.337Z",
+    "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/19/mp-investiga-possivel-exposicao-de-dados-pessoais-e-de-saude-de-pacientes-em-santo-estevao.ghtml",
+    "pagina": 3,
+    "coletado_em": "2026-09-12T13:15:09",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "4088a6aa4914",
+    "titulo": "Transtorno: Homem engole munição e precisa ser operado no interior de MS",
+    "resumo": "Homem disse no hospital que possui a 'Síndrome de Pica'. O homem, de 44 anos, tem histórico de já ter ingerido outros objetos, como sabonete e sacola plástica.",
+    "data_publicacao": "2026-08-13T14:31:52.826Z",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/13/homem-engole-municao-e-passa-por-cirurgia-em-ms.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "b57ec1f5acef",
+    "titulo": "ECA Digital encorpou fiscalização da ANPD sobre redes sociais e proteção de crianças",
+    "resumo": "Com novas competências para proteger menores na internet, agência federal pode aplicar multas e suspender serviços que não garantam a proteção de crianças e adolescentes no ambiente virtual; fiscalização da ANPD já resultou na suspensão das ferramentas de conversas ao vivo do Discord.",
+    "data_publicacao": "2026-08-13T11:19:15.930Z",
+    "url": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/13/eca-digital-encorpou-fiscalizacao-da-anpd-sobre-redes-sociais-e-protecao-de-criancas.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "e9f2d1116c7e",
+    "titulo": "Veterinária atacada por pastor-belga do Senado no centro de Brasília passa por cirurgia",
+    "resumo": "Vitória Valle, de 36 anos, foi mordida no pescoço enquanto dava ração ao animal. Cachorro faz parte do Serviço de Cinotecnia, que treina animais para ajudarem a Polícia Legislativa.",
+    "data_publicacao": "2026-08-18T18:30:57.944Z",
+    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/18/veterinaria-atacada-por-pastor-belga-do-senado-no-centro-de-brasilia-passa-por-cirurgia-estado-e-grave.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "fd4bc7d5edef",
+    "titulo": "Sua empresa está protegida? HostDime foi pioneira com ISO LGPD no Brasil.",
+    "resumo": "A HostDime foi a primeira empresa no Brasil a conquistar a ISO 27701, a certificação que atesta boas práticas na proteção de dados pessoais, como exige a LGPD.",
+    "data_publicacao": "2025-05-06T17:48:09.823Z",
+    "url": "https://g1.globo.com/pb/paraiba/especial-publicitario/hostdime/noticia/2025/05/06/sua-empresa-esta-protegida-hostdime-foi-pioneira-com-iso-lgpd-no-brasil.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "b6f3e80cb192",
+    "titulo": "Jovem de 15 anos morre após ir à UPA com dor de dente no DF; família denuncia negligência",
+    "resumo": "Maria Luiza procurou UPA em Sobradinho duas vezes antes de ser internada em estado grave. Exame indicou sangue no tórax; caso é investigado como morte suspeita pela Polícia Civil.",
+    "data_publicacao": "2026-08-19T22:33:24.725Z",
+    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/19/jovem-de-15-anos-morre-apos-ir-a-upa-com-dor-de-dente-no-df-familia-denuncia-negligencia.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "df0927243cdc",
+    "titulo": "UFR expulsa estudante de engenharia após caso de capacitismo contra colega com deficiência",
+    "resumo": "Universidade informou que estudante do curso de Engenharia Agrícola e Ambiental foi desligada após procedimento administrativo. Caso ganhou repercussão após vídeo com ofensas contra uma colega.",
+    "data_publicacao": "2026-08-11T19:36:32.246Z",
+    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/11/ufr-desliga-estudante-apos-apuracao-de-caso-de-capacitismo-contra-colega-com-deficiencia-em-mt.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "ec859eceef4b",
+    "titulo": "Segurança Cibernética: curso atende à crescente demanda por especialistas na área",
+    "resumo": "Com matriz seguindo padrões de excelência e atualizada para novas legislações, a graduação prepara o aluno para ocupar cargos de relevância em pontos estratégicos",
+    "data_publicacao": "2026-08-06T18:07:27.934Z",
+    "url": "https://g1.globo.com/ce/ceara/especial-publicitario/unifor/guia-de-profissoes/noticia/2026/08/06/seguranca-cibernetica-curso-atende-a-crescente-demanda-por-especialistas-na-area.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "dd8e0b455348",
+    "titulo": "Enfermeira denuncia ter sido agredida em plantão no hospital de Samambaia, no DF ",
+    "resumo": "Segundo sindicato, profissional sofreu ferimentos nas mãos, braços, tórax, rosto e boca. Conforme boletim de ocorrência, suposta agressora tem 39 anos e foi levada à delegacia por militares.",
+    "data_publicacao": "2026-08-10T19:03:55.853Z",
+    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/10/enfermeira-denuncia-ter-sido-agredida-durante-plantao-em-hospital-publico-em-samambaia-no-df.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "bbd78c4e4a58",
+    "titulo": "Estudantes de psicologia da Uniso denunciam negligência da gestão ao MEC e apontam crise institucional",
+    "resumo": "Alunos reclamam de falta de transparência, demissões de professores, desorganização de grades horárias e interrupção de projetos de iniciação científica. Universidade nega irregularidades.",
+    "data_publicacao": "2026-08-11T18:31:19.933Z",
+    "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/11/curso-psicologia-uniso-denuncia-negligencia.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "7a90441ce0bf",
+    "titulo": "Cantor sertanejo internado com leucemia e esposa conversam sobre manter a fé na recuperação: ‘Ser positivos diante dos riscos’ ",
+    "resumo": "Ao g1, Daniele informou que Eduardo está internado em Unidade de Terapia Intensiva (UTI), mas consciente e estável. Família realiza campanha de doação de sangue.",
+    "data_publicacao": "2026-08-09T00:39:02.096Z",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/08/08/cantor-sertanejo-internado-com-leucemia-e-esposa-conversam-sobre-manter-a-fe-na-recuperacao-ser-positivos-diante-dos-riscos.ghtml",
+    "pagina": 4,
+    "coletado_em": "2026-09-12T13:15:13",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "e5abab397ec6",
+    "titulo": "Backup tradicional deixa de ser suficiente diante de ataques modernos",
+    "resumo": "Levantamentos do setor apontam falhas em rotinas de cópia de segurança de empresas brasileiras, num momento em que a velocidade de resposta a incidentes é decisiva.",
+    "data_publicacao": "2026-08-12T20:24:46.857Z",
+    "url": "https://g1.globo.com/pr/parana/especial-publicitario/gate7-it-solutions-gestao-de-ti-inteligente/noticia/2026/08/12/backup-tradicional-deixa-de-ser-suficiente-diante-de-ataques-modernos.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "f2b14609c374",
+    "titulo": "Cantor sertanejo internado em Goiânia é diagnosticado com leucemia, diz assessoria",
+    "resumo": "Cantor da dupla sertaneja está internado na UTI do Hospital das Clínicas, em Goiânia, e equipe pede doações de sangue; médico explica o diagnóstico.",
+    "data_publicacao": "2026-08-07T00:49:50.105Z",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/08/06/cantor-sertanejo-internado-em-goiania-e-diagnosticado-com-leucemia-diz-assessoria.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "7e0b0d85e7ee",
+    "titulo": "Cantor sertanejo é internado após passar mal em Goiânia, e amigos buscam doação de sangue ",
+    "resumo": "Alcemir da Luz Carlos Filho, conhecido como Eduardo, da dupla com Derick, está internado no Hospital das Clínicas, em Goiânia. Cantor precisa de doação de sangue de qualquer tipo.",
+    "data_publicacao": "2026-08-06T10:25:37.842Z",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/08/06/cantor-sertanejo-e-internado-apos-passar-mal-em-goiania-e-amigos-buscam-doacao-de-sangue.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "0183f7c48fd6",
+    "titulo": "Como aplicar uma pesquisa psicossocial com anonimato",
+    "resumo": "Anonimato é o que separa um diagnóstico confiável de uma pesquisa que ninguém responde com sinceridade. Veja como garantir",
+    "data_publicacao": "2026-07-21T19:00:10.164Z",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/mentenr1-a-nr-1-como-sua-aliada/noticia/2026/07/21/como-aplicar-uma-pesquisa-psicossocial-com-anonimato.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "148418fecee1",
+    "titulo": "Morador que denuncia descarte irregular de lixo pode ganhar até R$ 7,6 mil em cidade do interior de SP",
+    "resumo": "Para a recompensa ser concedida, a denúncia deve cumprir requisitos da Prefeitura de Águas da Prata (SP). Objetivo é reforçar limpeza e envolver a população na preservação de áreas.",
+    "data_publicacao": "2026-08-09T14:09:22.537Z",
+    "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/09/cidade-no-interior-de-sp-premia-denuncia-de-descarte-irregular-de-lixo-com-ate-20percent-da-multa.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "0293c605f8b1",
+    "titulo": "Viih Tube e Eliezer encerram reality com empregados e pagarão R$ 350 mil por dano moral ",
+    "resumo": "Após acordo com o Ministério Público do Trabalho, influenciadores retirarão do ar conteúdos considerados humilhantes para empregados domésticos e terão de cumprir uma série de obrigações previstas no TAC.",
+    "data_publicacao": "2026-07-29T15:23:16.458Z",
+    "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/29/viih-tube-e-eliezer-firmam-encerram-reality-com-empregados-e-pagarao-r-350-mil.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "2cd8512e2279",
+    "titulo": "Tarifa Zero: confira passo a passo para recadastramento obrigatório em Uberlândia",
+    "resumo": "Atualização deve ser feita pelo aplicativo Supersit Uberlândia desta segunda (3/8) até 4 de setembro. Quem não realizar o procedimento pode ter o benefício bloqueado.",
+    "data_publicacao": "2026-08-03T03:01:19.698Z",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/03/tarifa-zero-confira-passo-a-passo-para-recadastramento-obrigatorio-em-uberlandia.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "786136ec2ba4",
+    "titulo": "Veja quem eram as vítimas de acidente entre caminhão e ônibus  ",
+    "resumo": "Acidente causou a morte de sete pessoas até o momento. No caminhão estavam o motorista Rodrigo Fernandes, de 30 anos, e o passageiro Anderson Oliveira, de 47 anos.",
+    "data_publicacao": "2026-08-09T21:41:59.319Z",
+    "url": "https://g1.globo.com/go/goias/transito/noticia/2026/08/09/veja-quem-eram-as-vitimas-de-acidente-entre-caminhao-e-onibus.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  },
+  {
+    "id": "5ba5dcca4f2d",
+    "titulo": "Como fazer o diagnóstico psicossocial passo a passo",
+    "resumo": "Um passo a passo claro para fazer o diagnóstico de riscos psicossociais exigido pela NR-1 — do planejamento ao registro",
+    "data_publicacao": "2026-07-22T12:09:08.812Z",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/mentenr1-a-nr-1-como-sua-aliada/noticia/2026/07/22/como-fazer-o-diagnostico-psicossocial-passo-a-passo.ghtml",
+    "pagina": 5,
+    "coletado_em": "2026-09-12T13:15:16",
+    "seletor_usado": "api:busca.globo.com/v1/search"
+  }
+]

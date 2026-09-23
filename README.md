@@ -22,7 +22,7 @@ não encontrava cards.
 
 Problemas adicionais corrigidos:
 
-- termo legado digitado como `1gpd`, não `lgpd`;
+
 - seletores fixos e frágeis;
 - ausência de tratamento para campos nulos;
 - falta de timeout, retries e tratamento HTTP;
